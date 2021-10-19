@@ -1,7 +1,7 @@
 ## G'day mate 👋
-- 👩‍💻 Product designer at <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=Linktree&logoColor=white"/>  
-- 🐨 based in Melbourne
-- 🐤 Avid coder (Still so far to go..)
+- 👩‍💻  Product designer at <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=Linktree&logoColor=white"/>  
+- 🐨  based in Melbourne
+- 🐤  Avid coder (Still so far to go..)
 
 ## Skills
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=black"/>
