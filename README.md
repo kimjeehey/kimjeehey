@@ -1,7 +1,7 @@
 ## G'day mate 👋
 - 👩‍💻  Product designer at <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=Linktree&logoColor=white"/>  
 - 🐨  Based in Melbourne
-- 🐤  Eager to be a devigner
+- 🐤  a devigner
 
 ## Skills
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> 
